@@ -1,4 +1,3 @@
-from sklearn.metrics import balanced_accuracy_score
 from base.data import Data, DataAggregator
 
 from .conf import *
